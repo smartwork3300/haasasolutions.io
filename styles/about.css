@@ -1,0 +1,26 @@
+ .about{
+margin-top:50px;
+margin-bottom: 40px;
+ }
+ h3 {
+    font-size: 25px;
+    color: #da0f5e;
+    font-weight: 700;
+}
+p{
+    text-align: justify;
+    
+    font-size: 15px;
+    line-height: 32px;
+  }
+  
+  
+  .center ul li{
+      margin-bottom:10px;
+  } 
+  .symbol{
+      margin-right: 10px;
+  }
+
+
+  

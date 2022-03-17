@@ -1,0 +1,52 @@
+.footer{
+    background: #3e3e3e;
+    color: #fff;
+    padding-top:40px;
+    padding-bottom: 1px;
+    margin-top:40px;
+  }
+    /* .ft_logo{
+        margin-left: 25px;
+        } */
+    .quick_links ul li,.services ul li {
+        font-size: .85em;
+         padding-bottom: 10px; 
+        list-style-type: disc;
+      }
+      .quick_links ul li a,.services ul li a{
+        color:#fff;
+        text-decoration: none;
+      } 
+      h5{
+        color:#fff;
+      }
+      .follow{
+        text-align: center;
+      }
+      .bg_remove{
+        background: none;
+      }
+      .ft_socailmedia_icons ul li {
+        display: inline;
+      }
+      .contactus p{
+        line-height: 30px;
+        
+      }
+      .ft_socailmedia_icons ul li .fab{
+        color:#fff;
+        text-decoration: none;
+        padding: 5px;
+        font-size: 25px;
+        margin-top: 10px;
+      }
+     .ft_socailmedia_icons ul li .fab:hover{
+        color: #fff;
+      }
+      .quick_links ul li :hover,.services ul li :hover{
+      color:#fff
+      }
+      .copy-right p{
+        text-align: center;
+        color: #fff;
+      }
